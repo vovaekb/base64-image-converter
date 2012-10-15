@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cordova>
+
+    <!-- <access origin="https://example.com" /> allow any secure requests to example.com -->
+    <!-- <access origin="https://example.com" subdomains="true" /> such as above, but including subdomains, such as www -->
+    <!-- <access origin=".*"/> Allow all domains, suggested development use only -->
+
+    <log level="DEBUG"/>
+</cordova>
+
+
+
